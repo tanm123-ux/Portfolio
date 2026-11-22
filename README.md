@@ -1,49 +1,24 @@
-This contains information about me and where I am in life right now
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tanmay | Portfolio</title>
-</head>
-<body>
-    <header>
-        <h1>Hi, I'm Tanmay</h1>
-        <a href="https://komarev.com/ghpvc/?username=tanm123-ux&color=blue&style=flat-square">Profile Views</a>
-        <blockquote>
-            Work hard and be sure to smile. After all, without joy and laughter to balance the sorrow,<br>
-            this world can never hope to have a bright future.
-        </blockquote>
-    </header>
-    <main>
-        <section>
-            <h2>About Me</h2>
-            <ul>
-                <li>Passionate developer</li>
-                <li>Love to explore new technologies</li>
-                <li>Enjoy solving complex problems</li>
-                <li>Like to play chess, solve cubes</li>
-                <li>I like to watch anime</li>
-            </ul>
-        </section>
-        <section>
-            <h2>My Skills</h2>
-            <ul>
-                <li>HTML, CSS, JavaScript (Coding)</li>
-                <li>Solving Cubes</li>
-                <li>Chess</li>
-                <li>General Knowledge</li>
-                <li>Experience with Arduino UNO</li>
-            </ul>
-        </section>
-        <section>
-            <h2>My Projects</h2>
-            <ul>
-                <li>This portfolio website</li>
-                <li></li>
-            </ul>
-        </section>
-    </main>
+# Tanm's Portfolio
 
-</body>
-</html>
+![Profile Views](https://komarev.com/ghpvc/?username=tanm123-ux&color=blue&style=flat-square)
+
+> *"Building, learning, and figuring things out one project at a time."*
+
+## About Me
+
+Hi! I'm Tanm. This repository holds the source code for my personal portfolio website (`index.html`), sharing who I am, what I'm working on, and where I am in life right now.
+
+## Skills
+
+- **Web Development:** HTML, CSS, JavaScript
+- **Hardware & Electronics:** Arduino
+- **Strategy & Games:** Chess
+
+## Projects
+
+- **Personal Portfolio Website:** A custom-built site showcasing my background, skills, and projects.
+- **Amazon.in Clone:** A front-end recreation of the Amazon India interface built to practice layout and styling.
+
+## Connect
+
+- **GitHub:** [@tanm123-ux](https://github.com/tanm123-ux)
