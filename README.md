@@ -1,2 +1,50 @@
 # Portfolio-
 This contains information about me and where I am in life right now
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tanmay | Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Hi, I'm Tanmay</h1>
+        <a href="https://komarev.com/ghpvc/?username=tanm123-ux&color=blue&style=flat-square">Profile Views</a>
+        <blockquote>
+            Work hard and be sure to smile. After all, without joy and laughter to balance the sorrow,<br>
+            this world can never hope to have a bright future.
+        </blockquote>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <ul>
+                <li>Passionate developer</li>
+                <li>Love to explore new technologies</li>
+                <li>Enjoy solving complex problems</li>
+                <li>Like to play chess, solve cubes</li>
+                <li>I like to watch anime</li>
+            </ul>
+        </section>
+        <section>
+            <h2>My Skills</h2>
+            <ul>
+                <li>HTML, CSS, JavaScript (Coding)</li>
+                <li>Solving Cubes</li>
+                <li>Chess</li>
+                <li>General Knowledge</li>
+                <li>Experience with Arduino UNO</li>
+            </ul>
+        </section>
+        <section>
+            <h2>My Projects</h2>
+            <ul>
+                <li>This portfolio website</li>
+                <li></li>
+            </ul>
+        </section>
+    </main>
+
+</body>
+</html>
