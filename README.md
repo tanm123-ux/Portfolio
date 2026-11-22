@@ -1,24 +1,27 @@
-# Tanm's Portfolio
+# Tanmay's Portfolio
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tanm123-ux&color=blue&style=flat-square)
 
-> *"Building, learning, and figuring things out one project at a time."*
+> *"Work hard and be sure to smile. After all, without joy and laughter to balance the sorrow, this world can never hope to have a bright future."*
+
+🌐 **Live Website:** [tanm123-ux.github.io/Portfolio](https://tanm123-ux.github.io/Portfolio/)
 
 ## About Me
 
-Hi! I'm Tanm. This repository holds the source code for my personal portfolio website (`index.html`), sharing who I am, what I'm working on, and where I am in life right now.
+Hi, I'm Tanmay! I am just a curious teenager exploring the world of coding and sharing my progress with you.
 
-## Skills
+- Passionate developer who loves exploring new technologies
+- Enjoy solving complex problems
+- Like playing chess and solving Rubik's cubes
+- Enjoy watching anime
 
-- **Web Development:** HTML, CSS, JavaScript
-- **Hardware & Electronics:** Arduino
-- **Strategy & Games:** Chess
+## My Skills
 
-## Projects
+- **Coding:** HTML, CSS, JavaScript
+- **Hardware:** Experience with Arduino UNO
+- **Strategy & Logic:** Chess, Solving Cubes, General Knowledge
 
-- **Personal Portfolio Website:** A custom-built site showcasing my background, skills, and projects.
-- **Amazon.in Clone:** A front-end recreation of the Amazon India interface built to practice layout and styling.
+## My Projects
 
-## Connect
-
-- **GitHub:** [@tanm123-ux](https://github.com/tanm123-ux)
+- **Personal Portfolio Website:** This portfolio website showcasing my coding journey, skills, and interests.
+- **Amazon.in Clone:** A front-end recreation of Amazon.in built with HTML and CSS.
